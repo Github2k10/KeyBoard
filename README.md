@@ -1,2 +1,2 @@
 # KeyBoard
-Website URL: https://idyllic-griffin-6fe488.netlify.app/
+Website url: https://idyllic-griffin-6fe488.netlify.app/
