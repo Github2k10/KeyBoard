@@ -1,2 +1,2 @@
 # KeyBoard
-Website url: https://idyllic-griffin-6fe488.netlify.app/
+Deployed url: [https://idyllic-griffin-6fe488.netlify.app/](https://keyboard-design.netlify.app/)https://keyboard-design.netlify.app/
